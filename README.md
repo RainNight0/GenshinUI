@@ -1,0 +1,2 @@
+# GenshinUI
+GenshinUI for WEB
